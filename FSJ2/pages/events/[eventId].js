@@ -19,6 +19,7 @@ function EventDetailPage() {
             </ErrorAlert>
         )
     }
+    
     return (
         <Fragment>
             <EventSummary title={event.title} />
