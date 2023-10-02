@@ -28,7 +28,7 @@ function PostContent(props) {
     //     />
     //   );
     // },
-    paragraph(paragraph) {
+    p(paragraph) {
       const { node } = paragraph;
 
       if (node.children[0].tagName === "img") {
