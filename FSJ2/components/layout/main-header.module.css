@@ -16,12 +16,12 @@
     display: flex;
     justify-content: center;
     align-items: center;
-    color: #94fdfd;
+    color: #af53af;
   }
   
   .logo a {
     text-decoration: none;
-    color: #94fdfd;
+    color: #2aa048;
   }
   
   .navigation a {
